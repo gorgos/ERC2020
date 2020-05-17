@@ -1,0 +1,11 @@
+# depedencies
+node_modules
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+
+# buidler
+artifacts
+cache
